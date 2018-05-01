@@ -1,0 +1,6 @@
+__pycache__
+.eggs
+dist
+.DS_Store
+.idea/
+
